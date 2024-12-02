@@ -47,11 +47,6 @@ cd backend : **npm run dev**
 
 cd ../frontend : **npm start**
 
-![image](https://github.com/user-attachments/assets/2d2b32ab-84bc-4b68-987f-f6133f674233)
-![image](https://github.com/user-attachments/assets/b0d3b4b0-0c20-4c71-bff8-5b527b1f3186)
-![image](https://github.com/user-attachments/assets/06f731d8-eb2a-4beb-9fb6-ab4f7aad7670)
-![image](https://github.com/user-attachments/assets/e8297b02-a4c1-4ef0-8da5-9e83e88c6838)
-
 
 
 
