@@ -1,0 +1,9 @@
+# Ignoră folderele node_modules
+node_modules/
+
+# Ignoră fișierele .env
+.env
+
+# Ignoră fișierele .env din folderele backend și frontend
+frontend/.env
+backend/.env
